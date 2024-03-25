@@ -1,3 +1,3 @@
 # Sistem Mabaiz
   
-[Download aplikasi](bin/Sistem Mabaiz.signed.apk?raw=true)
+[Download aplikasi](bin/Sistem%20Mabaiz.signed.apk?raw=true)
